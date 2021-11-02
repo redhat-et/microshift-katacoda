@@ -9,4 +9,4 @@ We will see some commands output like package installation and configuration
 
 Once MicroShift has been installed we can run some example commands like:
 
-`kubectl get all -A --context microshift`{{execute}}
+`kubectl get all -A`{{execute}}
